@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.mp4
+*.pth
+img_align_celeba.zip
+imdb_crop/
+img_align_celeba/
+faces_database/
+facescrub_images/
+database/
